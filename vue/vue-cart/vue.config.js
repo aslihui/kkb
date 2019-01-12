@@ -13,6 +13,7 @@ module.exports = {
               {id: 2, text: "Python架构师", price: 80},
               {id: 3, text: "java开发", price: 90},
               {id: 4, text: "php开发", price: 120},
+              {id: 5, text: "朱莉萍", price: 250},
             ]
           })
         })
