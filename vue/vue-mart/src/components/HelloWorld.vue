@@ -6,7 +6,12 @@
 
 <script>
   export default {
-    name: HelloWorldVue
+    name: "HelloWorld",
+    data() {
+      return {
+        msg: "I am is helloword!"
+      }
+    },
   }
 </script>
 
